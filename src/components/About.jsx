@@ -1,12 +1,12 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const About = () => {
 
     return (
         <>
-        <p>Hii this is about page</p>
-        <p>About</p>
+        <h1>About</h1>
+        <p>This is a sample React Router program.</p>
         {/* <Link to={"/"}>Home</Link> */}
         <a href="/">Home</a>
         </>
