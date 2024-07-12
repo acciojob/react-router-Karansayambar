@@ -6,7 +6,9 @@ const About = () => {
     return (
         <>
         <p>Hii this is about page</p>
-        <Link to={"/"}>Home</Link>
+        <p>About</p>
+        {/* <Link to={"/"}>Home</Link> */}
+        <a href="/">Home</a>
         </>
     )
 }
