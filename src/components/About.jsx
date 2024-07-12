@@ -5,7 +5,7 @@ const About = () => {
 
     return (
         <>
-        <h1>About</h1>
+        <p>About</p>
         <p>This is a sample React Router program.</p>
         {/* <Link to={"/"}>Home</Link> */}
         <a href="/">Home</a>
