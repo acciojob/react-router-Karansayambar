@@ -5,8 +5,8 @@ const Home = () => {
     return (
         <>
         <p>Welcome to main page</p>
-        {/* <Link to={"/about"}>About</Link> */}
-        <a href="/about">About</a>
+        <Link to={"/about"}>About</Link>
+        {/* <a href="/about">About</a> */}
         </>
     )
 }
